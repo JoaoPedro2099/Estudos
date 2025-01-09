@@ -1,9 +1,13 @@
 <strong>Estudos</strong>
 
-<strong>Phishing</strong> para captura de senhas no caso facebook;
+<strong>Desafio</strong> criar um phishing para captura de senha do facebook;
 
 Ferramentas
-<lo>
+<li>
 Kali linux
+</li>
+<li>
 setoolkit
-</lo>
+</li>
+Resoltado do Desafio
+
