@@ -1,7 +1,7 @@
 <strong>Estudos</strong>
 
 <strong>Phishing</strong> para captura de senhas no caso facebook;
-<list>
+<lo>
 Kali linux
 setoolkit
-</list>
+</lo>
